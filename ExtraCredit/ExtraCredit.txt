@@ -1,0 +1,19 @@
+Mars:
+	Time of Flight: 1000 days
+	Launch Date: 12/8/2024 
+	Delta V: 5.82078 km/s
+
+Jupiter:
+	Time of Flight: 3600 days
+	Fly-by of Mars Radius: 1.1 radii
+	Launch Date: 15/1/2020 
+	Delta V: 3.98524 km/s
+	
+Saturn:
+	Time of Flight: 21900 days
+	Fly-by of Mars Radius: 1.1 radii
+	Fly-by of Jupiter Radius: 1.1 radii
+	Launch Date: 20/10/2020 
+	Delta V: 4.91549 km/s
+	
+	
